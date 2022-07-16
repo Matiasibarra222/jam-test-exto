@@ -32,7 +32,12 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Hola, soy Matias Ibarra y estoy aprendiendo a usar JAMStack de la mano de oscar barajas, porfesor in house en Platzi.
+Nunca pares de aprender. 
+
+A mi me gusta las ciencia de datos, el machine learnign y ultimamente esto adquiriendo una nueva pasion que es la investigacion de operaciones. 
+
+
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
