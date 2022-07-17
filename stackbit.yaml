@@ -214,12 +214,11 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  portfolio:
+  productos:
     type: page
-    urlPath: /portfolio
-    label: Portfolio
+    urlPath: /productos
     layout: portfolio
-    file: portfolio/index.md
+    file: productos/index.md
     hideContent: true
     singleInstance: true
     fields:

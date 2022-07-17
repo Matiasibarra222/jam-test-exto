@@ -36,10 +36,10 @@ module.exports = {
                 pages: [
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'advanced') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'blog') },
-                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'portfolio') },
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'productos') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'page') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'post') },
-                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'project') }
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'project') },
                 ],
                 commonProps: {
                     pages: { predicate: _.matchesProperty('__metadata.modelType', 'page') },

@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { Layout } from '../components/index';
 import { getPageUrl, Link, withPrefix } from '../utils';
 
-export default class Portfolio extends React.Component {
+export default class Productos extends React.Component {
     renderProject(project, index) {
         const title = _.get(project, 'title');
         const thumbImage = _.get(project, 'thumb_image');
